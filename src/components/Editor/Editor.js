@@ -55,3 +55,4 @@ export default function Editor({ setTitle, setSubtitle, setAlign, setText, setFo
     </div>
   );
 }
+// 
